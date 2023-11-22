@@ -37,7 +37,7 @@ Use the following command:
 Use the following command:
 python train.py --train -e 50 -m model_name -s 500
 
-## Run the moedel:
+## Run the model:
 python train.py -m model_name -s 500
 
 ## For running on Arduino:
